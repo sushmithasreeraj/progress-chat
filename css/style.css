@@ -1,0 +1,64 @@
+.main_container{
+	width:90%;
+	height:350px;
+	border:1px solid;
+	margin:25px 25px;
+	
+	
+}
+ .first_chat{
+width:90%;
+height:25px;
+background-color:gray;
+overflow:hidden;
+margin:50px 60px;
+
+}
+.first_bar{
+width:30%;
+height:35px;
+background-color:green;
+}
+
+
+.second_chat{
+
+ margin:50px 60px;
+width:90%;
+height:25px;
+background-color:gray;
+overflow:hidden;
+
+}
+.second_bar{
+width:40%;
+height:35px;
+background-color:blue;
+}
+
+.third_chat{
+ margin:50px 60px;
+width:90%;
+height:25px;
+background-color:gray;
+overflow:hidden;
+
+}
+.third_bar{
+width:50%;
+height:35px;
+background-color:red;
+}
+.fourth_chat{
+ margin:50px 60px;
+width:90%;
+height:25px;
+background-color:gray;
+overflow:hidden;
+
+}
+.fourth_bar{
+width:70%;
+height:35px;
+background-color:orange;
+}
